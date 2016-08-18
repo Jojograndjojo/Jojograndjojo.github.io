@@ -1,4 +1,36 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Roller coaster of code</title><description>Roller coaster of code</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Wed, 15 Jun 2016 11:13:28 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>The lottery</title><description>&lt;p&gt;When purchasing a lottery ticket there is around one chance in 14 millions of winning the jackpot. Even though I know that those odds are next to impossible, occasionally I pick numbers and do participate. There are two reasons to explain my irrational behaviour, firstly as slim are my chances&lt;/p&gt;</description><link>http://localhost:2368/the-lottery/</link><guid isPermaLink="false">ecde3f1c-3039-4e3f-95ce-75b36e7d70ce</guid><dc:creator>Jonathan Passe</dc:creator><pubDate>Tue, 14 Jun 2016 08:28:07 GMT</pubDate><content:encoded>&lt;p&gt;When purchasing a lottery ticket there is around one chance in 14 millions of winning the jackpot. Even though I know that those odds are next to impossible, occasionally I pick numbers and do participate. There are two reasons to explain my irrational behaviour, firstly as slim are my chances of winning they still do exist. Secondly as long as I have not seen the lottery results, I get to be a potential Millionaire. As such I picture what my life should be like, it often follows the following: &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Roller coaster of code</title><description>Roller coaster of code</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 18 Aug 2016 15:47:59 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Fast forward &gt;&gt;</title><description>&lt;p&gt;In case you did not notice I am using ghost as a platform for this blog. &lt;/p&gt;
+
+&lt;p&gt;"Why ghost?" You might want to ask, well because of that :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="language-ruby"&gt;def write_code  
+  "I can write code snippets :)"
+end  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And because when I started to walk the web dev path, it was recommended&lt;/p&gt;</description><link>http://localhost:2368/learn-to-code-in-12-weeks/</link><guid isPermaLink="false">20167c56-ab22-4229-974f-08e369f1fe26</guid><dc:creator>Jonathan Passe</dc:creator><pubDate>Thu, 18 Aug 2016 15:46:27 GMT</pubDate><content:encoded>&lt;p&gt;In case you did not notice I am using ghost as a platform for this blog. &lt;/p&gt;
+
+&lt;p&gt;"Why ghost?" You might want to ask, well because of that :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class="language-ruby"&gt;def write_code  
+  "I can write code snippets :)"
+end  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And because when I started to walk the web dev path, it was recommended to me.&lt;/p&gt;
+
+&lt;p&gt;The thing I didn't know back then was that, to host a ghost blog free on github, I had to use &lt;code&gt;Node&lt;/code&gt;. And back then I didn't really know what &lt;code&gt;Node.js&lt;/code&gt; was , or &lt;code&gt;git&lt;/code&gt; or most importantly a stack trace. &lt;br&gt;
+I just thought the command line hated me, when it was just telling me what I needed to do (communication is key in a command line/dev relationship)&lt;/p&gt;
+
+&lt;p&gt;Anyway I came a long way in about 3 months. "How?" You may want to ask. I joined the &lt;a href="http://www.makersacademy.com/"&gt;Makers Academy&lt;/a&gt;, Europe's leading Web Developer bootcamp (as their website say(it is sometimes hard to pass the right tone when writing, just to be clear, going there was a great idea for me( putting parentheses within parentheses is bad practice)). &lt;/p&gt;
+
+&lt;p&gt;Where I went from "Ouais!! I can get my laptop to tell me my own age!" (I happen to be French, Ouais !! means yeah!!). To be able to write applications like the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=a4NPua1kmD0"&gt;Time for an Adventure&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Working in groups, using &lt;a href="http://agiledata.org/essays/tdd.html#WhatIsTDD"&gt;test driven development&lt;/a&gt; , trying to follow &lt;a href="http://agilemethodology.org/"&gt;agile&lt;/a&gt; and stick to the &lt;a href="http://www.extremeprogramming.org/values.html"&gt;xp values&lt;/a&gt;. I will get to talk more about all of this in future posts. &lt;br&gt;
+But right now all I am trying to say is sorry to my numerous readers (Haha...), I stopped to publish posts as I was busy getting the skills allowing to... well publish posts but also getting  to become a better developer. I hope you will find the strength to forgive me.&lt;/p&gt;
+
+&lt;p&gt;ps : If you are struggling setting up a ghost blog yourself have a look at the following &lt;a href="http://blog.sunnyg.io/2015/09/24/ghost-with-github/"&gt;post&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>The lottery</title><description>&lt;p&gt;When purchasing a lottery ticket there is around one chance in 14 millions of winning the jackpot. Even though I know that those odds are next to impossible, occasionally I pick numbers and do participate. There are two reasons to explain my irrational behaviour, firstly as slim are my chances&lt;/p&gt;</description><link>http://localhost:2368/the-lottery/</link><guid isPermaLink="false">ecde3f1c-3039-4e3f-95ce-75b36e7d70ce</guid><dc:creator>Jonathan Passe</dc:creator><pubDate>Tue, 14 Jun 2016 08:28:07 GMT</pubDate><content:encoded>&lt;p&gt;When purchasing a lottery ticket there is around one chance in 14 millions of winning the jackpot. Even though I know that those odds are next to impossible, occasionally I pick numbers and do participate. There are two reasons to explain my irrational behaviour, firstly as slim are my chances of winning they still do exist. Secondly as long as I have not seen the lottery results, I get to be a potential Millionaire. As such I picture what my life should be like, it often follows the following: &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;1- Buy assets that will secure my newly acquired fortune. &lt;/p&gt;
 
