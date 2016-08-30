@@ -1,4 +1,41 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Roller coaster of code</title><description>Roller coaster of code</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 18 Aug 2016 15:47:59 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Fast forward &gt;&gt;</title><description>&lt;p&gt;In case you did not notice I am using ghost as a platform for this blog. &lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Roller coaster of code</title><description>Roller coaster of code</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Tue, 30 Aug 2016 17:29:50 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Job Hit List</title><description>&lt;p&gt;To get something I have to really want it, that's how it always seems to work for me and I guess it is fair. I want to get a developer  job and thanks Tim Berners-Lee, there are plenty of jobs around. However I do not want any job, I need&lt;/p&gt;</description><link>http://localhost:2368/job-hit-list/</link><guid isPermaLink="false">6b5cd2c2-bce7-44bd-a780-b03d9263bf99</guid><dc:creator>Jonathan Passe</dc:creator><pubDate>Tue, 30 Aug 2016 17:29:12 GMT</pubDate><content:encoded>&lt;p&gt;To get something I have to really want it, that's how it always seems to work for me and I guess it is fair. I want to get a developer  job and thanks Tim Berners-Lee, there are plenty of jobs around. However I do not want any job, I need to find the one(s) that I will really really want and if  I don't I will stay jobless... Again I do not get things that I do not really really want. &lt;br&gt;
+But what would this(those) special(s) job(s) be?....&lt;/p&gt;
+
+&lt;p&gt;I decided to list and filter companies that hired junior developers by using an excel sheet, which I didn't find very user friendly. &lt;br&gt;
+And then it hit me... &lt;br&gt;
+I can code! Why don't I build an app that would match my requirements. &lt;br&gt;
+Behold "Job hit list":&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/180764029" width="640" height="373" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;p&gt;&lt;a href="https://vimeo.com/180764029"&gt;job-hit-list-mvp&lt;/a&gt; from &lt;a href="https://vimeo.com/user56070124"&gt;Jonathan Passe&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The idea is to keep a record and relevant information about cool companies and have the option of doing it collaboratively. &lt;br&gt;
+I happen to know quite a few people that are looking for a dev job as well, but the type of jobs they want may differ from the type of jobs I want. Lets say I meet a person at a tech event, and they are looking for developers, it seems like a good company and an interesting job but still it does not feel like it would be for me. &lt;br&gt;
+Well I can still add the details about the company and share the information with fellow coders (and they will owe me for life :-) ). &lt;br&gt;
+The app is in its minimum viable product stage, I still need to add filters and make it look nicer, but I can (and do ) use it...&lt;/p&gt;
+
+&lt;p&gt;Feel free to review my &lt;a href="https://github.com/Jojograndjojo/hit_list"&gt;code&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Makers Academy Graduate</title><description>&lt;p&gt;So I just graduated from MA. This is the point where I am meant to find a job. The course and living in London for 3 months with no income is obviously expensive. It would be tempting to jump at the first opportunity that presents itself right?&lt;/p&gt;
+
+&lt;p&gt;Well yes, but&lt;/p&gt;</description><link>http://localhost:2368/domain-modelling/</link><guid isPermaLink="false">32cf0761-0794-4b59-8742-db52492514f8</guid><dc:creator>Jonathan Passe</dc:creator><pubDate>Thu, 18 Aug 2016 16:17:28 GMT</pubDate><content:encoded>&lt;p&gt;So I just graduated from MA. This is the point where I am meant to find a job. The course and living in London for 3 months with no income is obviously expensive. It would be tempting to jump at the first opportunity that presents itself right?&lt;/p&gt;
+
+&lt;p&gt;Well yes, but that will not be the course of action I decided to take, the truth is right now, I have very little idea about what kind of jobs are out there, even though there seem to be a lot of jobs available.&lt;/p&gt;
+
+&lt;p&gt;What I am planning to do over the next few weeks is meet as many professional as I can, not in the hope of finding a job (although if something cool presents itself, why not...), but to find out how different professionals are actually working what are they working on and see if it would something I would see myself doing.&lt;/p&gt;
+
+&lt;p&gt;I happened to go to the an agile Meetup in about an hour, which should be interesting as it is the way I would like to be working, I need to remember to ask the following questions :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What kind of work do you do?&lt;/li&gt;
+&lt;li&gt;What does a week of work looks like?&lt;/li&gt;
+&lt;li&gt;How many people are in your team?&lt;/li&gt;
+&lt;li&gt;Do you use TDD ?&lt;/li&gt;
+&lt;li&gt;Do you have retros?&lt;/li&gt;
+&lt;li&gt;Do you use pair programming?&lt;/li&gt;
+&lt;li&gt;What kind of tasks your juniors do?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I actually need to leave now if I don't want to be late, I shall edit that post in the future and update the questions if needed...&lt;/p&gt;</content:encoded></item><item><title>Fast forward &gt;&gt;</title><description>&lt;p&gt;In case you did not notice I am using ghost as a platform for this blog. &lt;/p&gt;
 
 &lt;p&gt;"Why ghost?" You might want to ask, well because of that :&lt;/p&gt;
 
